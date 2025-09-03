@@ -23,3 +23,19 @@ ln /src/model/features<br>
 ## Sequence-based prediction 
 # Batch prediction 
 ## Sequence-based prediction
+# Acknowledgements
+HD acknowledges the financial support from the Indian Council of Medical Research (ICMR)- Senior Research Fellow (SRF), File No: BMI/11(99)/2022; DB acknowledges the financial support from the Department of Science and Technology (DST), Science and Engineering Research Board (SERB), India, File No: EMR/2017/002953
+# For any addition queries 
+Please contact;<br>
+<b>Prinicipal Investigator:-</b><br>
+<a href=https://www.bits-pilani.ac.in/hyderabad/debasri-bandyopadhyay/>Dr.Debashree Bandyopadhyay,</a><br>
+Associate Professor,<br>
+<a href=https://www.bits-pilani.ac.in/hyderabad/>BITS Pilani, Hyderabad Campus,</a><br>
+INDIA<br>
+<b>Developer</b><br> 
+Devarakonda Himaja,<br>
+PhD Student in Bioinformatics,<br>
+BITS Pilani, Hyderabad Campus,<br>
+INDIA<br>
+![bits-hyd](https://github.com/user-attachments/assets/ad4b3aa9-f598-469f-9cb2-e90d04e634a3)
+
