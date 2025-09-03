@@ -21,7 +21,11 @@ ln /src/model/features<br>
 ## Super secondary structure
 ## Cysteine sequence motifs 
 # Model training 
-## Sequence-based prediction 
+## Sequence-based prediction
+<p align="center">
+  <img width="650" height="450" alt="seqdeepcys_ptm" src="https://github.com/user-attachments/assets/296bc17f-8b5e-40c9-931f-c9fc98be9712" />
+</p>
+
 # Batch prediction 
 ## Sequence-based prediction
 # Acknowledgements
