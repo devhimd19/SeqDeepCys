@@ -2,7 +2,7 @@
 
 Sequence-based prediction tool based on artificial neural networks for seven cysteine post-translational modifications namely Disulphide, S-palmitoylation, S-nitrosylation, S-sulfenylation,S-glutathionylation,Metal-binding and Thioether.<br>
 
-![cys_ptms](https://github.com/user-attachments/assets/f8ce293b-ecfe-4f42-9bda-480482583597)<br>
+<img width="250" height="100" alt="seqdeepcys_ptm" src="https://github.com/user-attachments/assets/f8ce293b-ecfe-4f42-9bda-480482583597" /><br>
 
 This model can be accessed via a webserver which can be found here.<br>
 
