@@ -10,3 +10,9 @@ This model can be accessed via a webserver which can be found here.<br>
 
 # Requirements
 
+
+
+
+# Download data <br>
+The data can be downloaded on a request to banerjee.debi@hyderabad.bits-pliani.ac.in <img width="320" height="320" alt="email-envelope-button-svgrepo-com" src="https://github.com/user-attachments/assets/6d7a5040-71b5-4f18-9959-6adc86f1214d" /> with sending details of Name, Email, Name of the Institute and Place of the Institute. On receiving the request the data is in the CSV file for seven cysteine post-translational modifications and consists of Cysteine residue number, Sequence, cysteine post-translational modification. 
+
