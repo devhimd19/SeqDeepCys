@@ -19,6 +19,9 @@ This model can be accessed via a webserver which can be found here.<br>
 # Feature Generation<br>
 ln /src/model/features<br>
 ## Super secondary structure
+<p align="center">
+  <img width="350" height="250" alt="seqdeepcys_ptm" src="https://github.com/user-attachments/assets/73857bd6-e3cc-423f-a874-3a096a576ae4" />
+
 ## Cysteine sequence motifs
 <p align="center">
   <img width="350" height="250" alt="seqdeepcys_ptm" src="https://github.com/user-attachments/assets/b317f0a0-8789-4015-877a-a452613528ce" />
