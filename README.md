@@ -14,7 +14,8 @@ This model can be accessed via a webserver which can be found here.<br>
 
 
 # Download data <br>
-The data can be downloaded on a request to banerjee.debi@hyderabad.bits-pliani.ac.in <img width="12" height="12" alt="email-envelope-button-svgrepo-com" src="https://github.com/user-attachments/assets/6d7a5040-71b5-4f18-9959-6adc86f1214d" /> with sending details of Name, Email, Name of the Institute and Place of the Institute. On receiving the request the data of CSV file is for seven cysteine post-translational modifications, consists of Cysteine residue number, Sequence, cysteine post-translational modification. 
+<p align="justify">
+The data can be downloaded on a request to banerjee.debi@hyderabad.bits-pliani.ac.in <img width="12" height="12" alt="email-envelope-button-svgrepo-com" src="https://github.com/user-attachments/assets/6d7a5040-71b5-4f18-9959-6adc86f1214d" /> with sending details of Name, Email, Name of the Institute and Place of the Institute. On receiving the request the data of CSV file is for seven cysteine post-translational modifications, consists of Cysteine residue number, Sequence, cysteine post-translational modification.</p>
 # Feature Generation<br>
 ln /src/model/features<br>
 ## Super secondary structure
